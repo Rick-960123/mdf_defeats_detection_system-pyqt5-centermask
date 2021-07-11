@@ -1,0 +1,468 @@
+[2019-11-13 23:17:13:0482] | GigEVisionManager.cpp-L0274: driver mode start!
+[2019-11-13 23:17:13:0482] | GigEVisionManager.cpp-L0311: Driver Mode [1]
+[2019-11-13 23:17:13:0483] | GigEVisionManager.cpp-L0916: connecting device ... hostIP[a9fe30fb], hostPort[62543], devIP[a9fe5055]
+[2019-11-13 23:17:14:0007] | GigEVisionManager.cpp-L4976: SetTransmissionType[0], nRet[0x0], GvspSendIp[a9fe30fb], GvspSendPort[62543], HostIp[a9fe30fb], HostPort[62543]
+[2019-11-13 23:17:14:0007] | GigEVisionManager.cpp-L0997: disconnect device ...
+[2019-11-13 23:17:14:0022] | GigEVisionManager.cpp-L2577: AppGetCount[0], AppGetCountSucceed[0], ExpectRecv[0], NetRecv[0], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:17:15:0103] |   GigEVisionGVSP.cpp-L0423: [socket] NearBID[0], LastBID[0], output[0]
+[2019-11-13 23:17:38:0187] | GigEVisionManager.cpp-L0274: driver mode start!
+[2019-11-13 23:17:38:0187] | GigEVisionManager.cpp-L0311: Driver Mode [1]
+[2019-11-13 23:17:38:0188] | GigEVisionManager.cpp-L0916: connecting device ... hostIP[a9fe30fb], hostPort[62560], devIP[a9fe5055]
+[2019-11-13 23:17:38:0763] | GigEVisionManager.cpp-L3930: detect mtu [9014]!
+[2019-11-13 23:17:38:0771] | GigEVisionManager.cpp-L4006: UDP_ReadnTimeout  [8136]!
+[2019-11-13 23:17:38:0776] | GigEVisionManager.cpp-L4048: Optimal PacketSize  [8164]!
+[2019-11-13 23:17:38:0845] | GigEVisionManager.cpp-L2930: GigE SendRsdCmdThread Start, ThreadId[46480]
+[2019-11-13 23:17:39:0315] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:17:39:0368] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:17:39:0371] | GigEVisionManager.cpp-L4976: SetTransmissionType[0], nRet[0x0], GvspSendIp[a9fe30fb], GvspSendPort[62560], HostIp[a9fe30fb], HostPort[62560]
+[2019-11-13 23:17:39:0371] | GigEVisionManager.cpp-L0997: disconnect device ...
+[2019-11-13 23:17:39:0386] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:17:39:0386] | GigEVisionManager.cpp-L2976: SendRsdCmd thread stop
+[2019-11-13 23:17:39:0837] |   GigEVisionGVSP.cpp-L0423: [socket] NearBID[0], LastBID[0], output[0]
+[2019-11-13 23:24:17:0750] | GigEVisionManager.cpp-L0274: driver mode start!
+[2019-11-13 23:24:17:0750] | GigEVisionManager.cpp-L0311: Driver Mode [1]
+[2019-11-13 23:24:17:0751] | GigEVisionManager.cpp-L0916: connecting device ... hostIP[a9fe30fb], hostPort[53553], devIP[a9fe5055]
+[2019-11-13 23:24:18:0262] | GigEVisionManager.cpp-L4976: SetTransmissionType[0], nRet[0x0], GvspSendIp[a9fe30fb], GvspSendPort[53553], HostIp[a9fe30fb], HostPort[53553]
+[2019-11-13 23:24:18:0262] | GigEVisionManager.cpp-L0997: disconnect device ...
+[2019-11-13 23:24:18:0276] | GigEVisionManager.cpp-L2577: AppGetCount[0], AppGetCountSucceed[0], ExpectRecv[0], NetRecv[0], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:24:19:0375] |   GigEVisionGVSP.cpp-L0423: [socket] NearBID[0], LastBID[0], output[0]
+[2019-11-13 23:24:29:0156] | GigEVisionManager.cpp-L0274: driver mode start!
+[2019-11-13 23:24:29:0156] | GigEVisionManager.cpp-L0311: Driver Mode [1]
+[2019-11-13 23:24:29:0157] | GigEVisionManager.cpp-L0916: connecting device ... hostIP[a9fe30fb], hostPort[53568], devIP[a9fe5055]
+[2019-11-13 23:24:29:0703] | GigEVisionManager.cpp-L3930: detect mtu [9014]!
+[2019-11-13 23:24:29:0708] | GigEVisionManager.cpp-L4006: UDP_ReadnTimeout  [8136]!
+[2019-11-13 23:24:29:0712] | GigEVisionManager.cpp-L4048: Optimal PacketSize  [8164]!
+[2019-11-13 23:24:29:0778] | GigEVisionManager.cpp-L2930: GigE SendRsdCmdThread Start, ThreadId[9324]
+[2019-11-13 23:24:30:0251] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:24:30:0301] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:24:30:0304] | GigEVisionManager.cpp-L4976: SetTransmissionType[0], nRet[0x0], GvspSendIp[a9fe30fb], GvspSendPort[53568], HostIp[a9fe30fb], HostPort[53568]
+[2019-11-13 23:24:30:0304] | GigEVisionManager.cpp-L0997: disconnect device ...
+[2019-11-13 23:24:30:0318] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:24:30:0318] | GigEVisionManager.cpp-L2976: SendRsdCmd thread stop
+[2019-11-13 23:24:30:0810] |   GigEVisionGVSP.cpp-L0423: [socket] NearBID[0], LastBID[0], output[0]
+[2019-11-13 23:25:25:0011] | GigEVisionManager.cpp-L0274: driver mode start!
+[2019-11-13 23:25:25:0011] | GigEVisionManager.cpp-L0311: Driver Mode [1]
+[2019-11-13 23:25:25:0012] | GigEVisionManager.cpp-L0916: connecting device ... hostIP[a9fe30fb], hostPort[60993], devIP[a9fe5055]
+[2019-11-13 23:25:25:0549] | GigEVisionManager.cpp-L4976: SetTransmissionType[0], nRet[0x0], GvspSendIp[a9fe30fb], GvspSendPort[60993], HostIp[a9fe30fb], HostPort[60993]
+[2019-11-13 23:25:25:0549] | GigEVisionManager.cpp-L0997: disconnect device ...
+[2019-11-13 23:25:25:0563] | GigEVisionManager.cpp-L2577: AppGetCount[0], AppGetCountSucceed[0], ExpectRecv[0], NetRecv[0], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:25:26:0654] |   GigEVisionGVSP.cpp-L0423: [socket] NearBID[0], LastBID[0], output[0]
+[2019-11-13 23:25:34:0062] | GigEVisionManager.cpp-L0274: driver mode start!
+[2019-11-13 23:25:34:0062] | GigEVisionManager.cpp-L0311: Driver Mode [1]
+[2019-11-13 23:25:34:0062] | GigEVisionManager.cpp-L0916: connecting device ... hostIP[a9fe30fb], hostPort[57130], devIP[a9fe5055]
+[2019-11-13 23:25:34:0438] | GigEVisionManager.cpp-L3930: detect mtu [9014]!
+[2019-11-13 23:25:34:0443] | GigEVisionManager.cpp-L4006: UDP_ReadnTimeout  [8136]!
+[2019-11-13 23:25:34:0447] | GigEVisionManager.cpp-L4048: Optimal PacketSize  [8164]!
+[2019-11-13 23:25:34:0494] | GigEVisionManager.cpp-L2930: GigE SendRsdCmdThread Start, ThreadId[47668]
+[2019-11-13 23:25:34:0955] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:25:35:0015] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:25:35:0018] | GigEVisionManager.cpp-L4976: SetTransmissionType[0], nRet[0x0], GvspSendIp[a9fe30fb], GvspSendPort[57130], HostIp[a9fe30fb], HostPort[57130]
+[2019-11-13 23:25:35:0018] | GigEVisionManager.cpp-L0997: disconnect device ...
+[2019-11-13 23:25:35:0032] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:25:35:0032] | GigEVisionManager.cpp-L2976: SendRsdCmd thread stop
+[2019-11-13 23:28:51:0288] | GigEVisionManager.cpp-L0274: driver mode start!
+[2019-11-13 23:28:51:0288] | GigEVisionManager.cpp-L0311: Driver Mode [1]
+[2019-11-13 23:28:51:0289] | GigEVisionManager.cpp-L0916: connecting device ... hostIP[a9fe30fb], hostPort[53897], devIP[a9fe5055]
+[2019-11-13 23:28:51:0889] | GigEVisionManager.cpp-L4976: SetTransmissionType[0], nRet[0x0], GvspSendIp[a9fe30fb], GvspSendPort[53897], HostIp[a9fe30fb], HostPort[53897]
+[2019-11-13 23:28:51:0889] | GigEVisionManager.cpp-L0997: disconnect device ...
+[2019-11-13 23:28:51:0903] | GigEVisionManager.cpp-L2577: AppGetCount[0], AppGetCountSucceed[0], ExpectRecv[0], NetRecv[0], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:28:52:0947] |   GigEVisionGVSP.cpp-L0423: [socket] NearBID[0], LastBID[0], output[0]
+[2019-11-13 23:29:05:0074] | GigEVisionManager.cpp-L0274: driver mode start!
+[2019-11-13 23:29:05:0074] | GigEVisionManager.cpp-L0311: Driver Mode [1]
+[2019-11-13 23:29:05:0075] | GigEVisionManager.cpp-L0916: connecting device ... hostIP[a9fe30fb], hostPort[53913], devIP[a9fe5055]
+[2019-11-13 23:29:05:0684] | GigEVisionManager.cpp-L3930: detect mtu [9014]!
+[2019-11-13 23:29:05:0689] | GigEVisionManager.cpp-L4006: UDP_ReadnTimeout  [8136]!
+[2019-11-13 23:29:05:0693] | GigEVisionManager.cpp-L4048: Optimal PacketSize  [8164]!
+[2019-11-13 23:29:05:0768] | GigEVisionManager.cpp-L2930: GigE SendRsdCmdThread Start, ThreadId[4868]
+[2019-11-13 23:29:06:0263] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:29:06:0291] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:29:06:0294] | GigEVisionManager.cpp-L4976: SetTransmissionType[0], nRet[0x0], GvspSendIp[a9fe30fb], GvspSendPort[53913], HostIp[a9fe30fb], HostPort[53913]
+[2019-11-13 23:29:06:0294] | GigEVisionManager.cpp-L0997: disconnect device ...
+[2019-11-13 23:29:06:0308] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:29:06:0308] | GigEVisionManager.cpp-L2976: SendRsdCmd thread stop
+[2019-11-13 23:29:06:0730] |   GigEVisionGVSP.cpp-L0423: [socket] NearBID[0], LastBID[0], output[0]
+[2019-11-13 23:32:28:0058] | GigEVisionManager.cpp-L0274: driver mode start!
+[2019-11-13 23:32:28:0058] | GigEVisionManager.cpp-L0311: Driver Mode [1]
+[2019-11-13 23:32:28:0060] | GigEVisionManager.cpp-L0916: connecting device ... hostIP[a9fe30fb], hostPort[53934], devIP[a9fe5055]
+[2019-11-13 23:32:28:0627] | GigEVisionManager.cpp-L4976: SetTransmissionType[0], nRet[0x0], GvspSendIp[a9fe30fb], GvspSendPort[53934], HostIp[a9fe30fb], HostPort[53934]
+[2019-11-13 23:32:28:0627] | GigEVisionManager.cpp-L0997: disconnect device ...
+[2019-11-13 23:32:28:0642] | GigEVisionManager.cpp-L2577: AppGetCount[0], AppGetCountSucceed[0], ExpectRecv[0], NetRecv[0], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:32:29:0700] |   GigEVisionGVSP.cpp-L0423: [socket] NearBID[0], LastBID[0], output[0]
+[2019-11-13 23:32:57:0752] | GigEVisionManager.cpp-L0274: driver mode start!
+[2019-11-13 23:32:57:0752] | GigEVisionManager.cpp-L0311: Driver Mode [1]
+[2019-11-13 23:32:57:0752] | GigEVisionManager.cpp-L0916: connecting device ... hostIP[a9fe30fb], hostPort[53955], devIP[a9fe5055]
+[2019-11-13 23:32:58:0182] | GigEVisionManager.cpp-L3930: detect mtu [9014]!
+[2019-11-13 23:32:58:0188] | GigEVisionManager.cpp-L4006: UDP_ReadnTimeout  [8136]!
+[2019-11-13 23:32:58:0191] | GigEVisionManager.cpp-L4048: Optimal PacketSize  [8164]!
+[2019-11-13 23:32:58:0253] | GigEVisionManager.cpp-L2930: GigE SendRsdCmdThread Start, ThreadId[36636]
+[2019-11-13 23:32:58:0721] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:32:58:0775] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:32:58:0776] | GigEVisionManager.cpp-L4976: SetTransmissionType[0], nRet[0x0], GvspSendIp[a9fe30fb], GvspSendPort[53955], HostIp[a9fe30fb], HostPort[53955]
+[2019-11-13 23:32:58:0776] | GigEVisionManager.cpp-L0997: disconnect device ...
+[2019-11-13 23:32:58:0791] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:32:58:0791] | GigEVisionManager.cpp-L2976: SendRsdCmd thread stop
+[2019-11-13 23:33:22:0607] | GigEVisionManager.cpp-L0274: driver mode start!
+[2019-11-13 23:33:22:0607] | GigEVisionManager.cpp-L0311: Driver Mode [1]
+[2019-11-13 23:33:22:0608] | GigEVisionManager.cpp-L0916: connecting device ... hostIP[a9fe30fb], hostPort[53970], devIP[a9fe5055]
+[2019-11-13 23:33:23:0032] | GigEVisionManager.cpp-L3930: detect mtu [9014]!
+[2019-11-13 23:33:23:0038] | GigEVisionManager.cpp-L4006: UDP_ReadnTimeout  [8136]!
+[2019-11-13 23:33:23:0041] | GigEVisionManager.cpp-L4048: Optimal PacketSize  [8164]!
+[2019-11-13 23:33:23:0084] | GigEVisionManager.cpp-L2930: GigE SendRsdCmdThread Start, ThreadId[46176]
+[2019-11-13 23:33:23:0548] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:33:23:0605] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:33:23:0607] | GigEVisionManager.cpp-L4976: SetTransmissionType[0], nRet[0x0], GvspSendIp[a9fe30fb], GvspSendPort[53970], HostIp[a9fe30fb], HostPort[53970]
+[2019-11-13 23:33:23:0607] | GigEVisionManager.cpp-L0997: disconnect device ...
+[2019-11-13 23:33:23:0620] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:33:23:0620] | GigEVisionManager.cpp-L2976: SendRsdCmd thread stop
+[2019-11-13 23:33:24:0223] |   GigEVisionGVSP.cpp-L0423: [socket] NearBID[0], LastBID[0], output[0]
+[2019-11-13 23:33:24:0758] | GigEVisionManager.cpp-L0274: driver mode start!
+[2019-11-13 23:33:24:0758] | GigEVisionManager.cpp-L0311: Driver Mode [1]
+[2019-11-13 23:33:24:0758] | GigEVisionManager.cpp-L0916: connecting device ... hostIP[a9fe30fb], hostPort[53985], devIP[a9fe5055]
+[2019-11-13 23:33:25:0172] | GigEVisionManager.cpp-L3930: detect mtu [9014]!
+[2019-11-13 23:33:25:0177] | GigEVisionManager.cpp-L4006: UDP_ReadnTimeout  [8136]!
+[2019-11-13 23:33:25:0181] | GigEVisionManager.cpp-L4048: Optimal PacketSize  [8164]!
+[2019-11-13 23:33:25:0225] | GigEVisionManager.cpp-L2930: GigE SendRsdCmdThread Start, ThreadId[47736]
+[2019-11-13 23:33:25:0691] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:33:25:0746] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:33:25:0748] | GigEVisionManager.cpp-L4976: SetTransmissionType[0], nRet[0x0], GvspSendIp[a9fe30fb], GvspSendPort[53985], HostIp[a9fe30fb], HostPort[53985]
+[2019-11-13 23:33:25:0748] | GigEVisionManager.cpp-L0997: disconnect device ...
+[2019-11-13 23:33:25:0762] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:33:25:0762] | GigEVisionManager.cpp-L2976: SendRsdCmd thread stop
+[2019-11-13 23:33:26:0369] |   GigEVisionGVSP.cpp-L0423: [socket] NearBID[0], LastBID[0], output[0]
+[2019-11-13 23:38:02:0880] | GigEVisionManager.cpp-L0274: driver mode start!
+[2019-11-13 23:38:02:0880] | GigEVisionManager.cpp-L0311: Driver Mode [1]
+[2019-11-13 23:38:02:0881] | GigEVisionManager.cpp-L0916: connecting device ... hostIP[a9fe30fb], hostPort[54015], devIP[a9fe5055]
+[2019-11-13 23:38:03:0490] | GigEVisionManager.cpp-L4976: SetTransmissionType[0], nRet[0x0], GvspSendIp[a9fe30fb], GvspSendPort[54015], HostIp[a9fe30fb], HostPort[54015]
+[2019-11-13 23:38:03:0490] | GigEVisionManager.cpp-L0997: disconnect device ...
+[2019-11-13 23:38:03:0505] | GigEVisionManager.cpp-L2577: AppGetCount[0], AppGetCountSucceed[0], ExpectRecv[0], NetRecv[0], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:38:04:0528] |   GigEVisionGVSP.cpp-L0423: [socket] NearBID[0], LastBID[0], output[0]
+[2019-11-13 23:38:20:0961] | GigEVisionManager.cpp-L0274: driver mode start!
+[2019-11-13 23:38:20:0961] | GigEVisionManager.cpp-L0311: Driver Mode [1]
+[2019-11-13 23:38:20:0961] | GigEVisionManager.cpp-L0916: connecting device ... hostIP[a9fe30fb], hostPort[54030], devIP[a9fe5055]
+[2019-11-13 23:38:21:0387] | GigEVisionManager.cpp-L3930: detect mtu [9014]!
+[2019-11-13 23:38:21:0392] | GigEVisionManager.cpp-L4006: UDP_ReadnTimeout  [8136]!
+[2019-11-13 23:38:21:0396] | GigEVisionManager.cpp-L4048: Optimal PacketSize  [8164]!
+[2019-11-13 23:38:21:0447] | GigEVisionManager.cpp-L2930: GigE SendRsdCmdThread Start, ThreadId[38156]
+[2019-11-13 23:38:21:0912] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:38:21:0968] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:38:21:0970] | GigEVisionManager.cpp-L4976: SetTransmissionType[0], nRet[0x0], GvspSendIp[a9fe30fb], GvspSendPort[54030], HostIp[a9fe30fb], HostPort[54030]
+[2019-11-13 23:38:21:0970] | GigEVisionManager.cpp-L0997: disconnect device ...
+[2019-11-13 23:38:21:0983] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:38:21:0983] | GigEVisionManager.cpp-L2976: SendRsdCmd thread stop
+[2019-11-13 23:38:22:0579] |   GigEVisionGVSP.cpp-L0423: [socket] NearBID[0], LastBID[0], output[0]
+[2019-11-13 23:38:31:0531] | GigEVisionManager.cpp-L0274: driver mode start!
+[2019-11-13 23:38:31:0531] | GigEVisionManager.cpp-L0311: Driver Mode [1]
+[2019-11-13 23:38:31:0532] | GigEVisionManager.cpp-L0916: connecting device ... hostIP[a9fe30fb], hostPort[54045], devIP[a9fe5055]
+[2019-11-13 23:38:31:0953] | GigEVisionManager.cpp-L3930: detect mtu [9014]!
+[2019-11-13 23:38:31:0959] | GigEVisionManager.cpp-L4006: UDP_ReadnTimeout  [8136]!
+[2019-11-13 23:38:31:0963] | GigEVisionManager.cpp-L4048: Optimal PacketSize  [8164]!
+[2019-11-13 23:38:32:0006] | GigEVisionManager.cpp-L2930: GigE SendRsdCmdThread Start, ThreadId[18940]
+[2019-11-13 23:38:32:0472] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:38:32:0527] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:38:32:0529] | GigEVisionManager.cpp-L4976: SetTransmissionType[0], nRet[0x0], GvspSendIp[a9fe30fb], GvspSendPort[54045], HostIp[a9fe30fb], HostPort[54045]
+[2019-11-13 23:38:32:0529] | GigEVisionManager.cpp-L0997: disconnect device ...
+[2019-11-13 23:38:32:0543] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:38:32:0543] | GigEVisionManager.cpp-L2976: SendRsdCmd thread stop
+[2019-11-13 23:38:33:0144] |   GigEVisionGVSP.cpp-L0423: [socket] NearBID[0], LastBID[0], output[0]
+[2019-11-13 23:38:43:0988] | GigEVisionManager.cpp-L0274: driver mode start!
+[2019-11-13 23:38:43:0988] | GigEVisionManager.cpp-L0311: Driver Mode [1]
+[2019-11-13 23:38:43:0988] | GigEVisionManager.cpp-L0916: connecting device ... hostIP[a9fe30fb], hostPort[54060], devIP[a9fe5055]
+[2019-11-13 23:38:44:0413] | GigEVisionManager.cpp-L3930: detect mtu [9014]!
+[2019-11-13 23:38:44:0418] | GigEVisionManager.cpp-L4006: UDP_ReadnTimeout  [8136]!
+[2019-11-13 23:38:44:0422] | GigEVisionManager.cpp-L4048: Optimal PacketSize  [8164]!
+[2019-11-13 23:38:44:0483] | GigEVisionManager.cpp-L2930: GigE SendRsdCmdThread Start, ThreadId[39664]
+[2019-11-13 23:38:44:0946] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:38:45:0005] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:38:45:0007] | GigEVisionManager.cpp-L4976: SetTransmissionType[0], nRet[0x0], GvspSendIp[a9fe30fb], GvspSendPort[54060], HostIp[a9fe30fb], HostPort[54060]
+[2019-11-13 23:38:45:0007] | GigEVisionManager.cpp-L0997: disconnect device ...
+[2019-11-13 23:38:45:0021] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:38:45:0021] | GigEVisionManager.cpp-L2976: SendRsdCmd thread stop
+[2019-11-13 23:38:57:0988] | GigEVisionManager.cpp-L0274: driver mode start!
+[2019-11-13 23:38:57:0988] | GigEVisionManager.cpp-L0311: Driver Mode [1]
+[2019-11-13 23:38:57:0988] | GigEVisionManager.cpp-L0916: connecting device ... hostIP[a9fe30fb], hostPort[54075], devIP[a9fe5055]
+[2019-11-13 23:38:58:0437] | GigEVisionManager.cpp-L3930: detect mtu [9014]!
+[2019-11-13 23:38:58:0443] | GigEVisionManager.cpp-L4006: UDP_ReadnTimeout  [8136]!
+[2019-11-13 23:38:58:0446] | GigEVisionManager.cpp-L4048: Optimal PacketSize  [8164]!
+[2019-11-13 23:38:58:0490] | GigEVisionManager.cpp-L2930: GigE SendRsdCmdThread Start, ThreadId[46544]
+[2019-11-13 23:38:58:0955] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:38:59:0011] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:38:59:0013] | GigEVisionManager.cpp-L4976: SetTransmissionType[0], nRet[0x0], GvspSendIp[a9fe30fb], GvspSendPort[54075], HostIp[a9fe30fb], HostPort[54075]
+[2019-11-13 23:38:59:0013] | GigEVisionManager.cpp-L0997: disconnect device ...
+[2019-11-13 23:38:59:0027] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:38:59:0027] | GigEVisionManager.cpp-L2976: SendRsdCmd thread stop
+[2019-11-13 23:38:59:0610] |   GigEVisionGVSP.cpp-L0423: [socket] NearBID[0], LastBID[0], output[0]
+[2019-11-13 23:39:41:0169] | GigEVisionManager.cpp-L0274: driver mode start!
+[2019-11-13 23:39:41:0169] | GigEVisionManager.cpp-L0311: Driver Mode [1]
+[2019-11-13 23:39:41:0170] | GigEVisionManager.cpp-L0916: connecting device ... hostIP[a9fe30fb], hostPort[54090], devIP[a9fe5055]
+[2019-11-13 23:39:41:0584] | GigEVisionManager.cpp-L3930: detect mtu [9014]!
+[2019-11-13 23:39:41:0589] | GigEVisionManager.cpp-L4006: UDP_ReadnTimeout  [8136]!
+[2019-11-13 23:39:41:0592] | GigEVisionManager.cpp-L4048: Optimal PacketSize  [8164]!
+[2019-11-13 23:39:41:0635] | GigEVisionManager.cpp-L2930: GigE SendRsdCmdThread Start, ThreadId[44152]
+[2019-11-13 23:39:42:0099] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:39:42:0157] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:39:42:0159] | GigEVisionManager.cpp-L4976: SetTransmissionType[0], nRet[0x0], GvspSendIp[a9fe30fb], GvspSendPort[54090], HostIp[a9fe30fb], HostPort[54090]
+[2019-11-13 23:39:42:0159] | GigEVisionManager.cpp-L0997: disconnect device ...
+[2019-11-13 23:39:42:0172] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:39:42:0172] | GigEVisionManager.cpp-L2976: SendRsdCmd thread stop
+[2019-11-13 23:39:42:0780] |   GigEVisionGVSP.cpp-L0423: [socket] NearBID[0], LastBID[0], output[0]
+[2019-11-13 23:39:45:0709] | GigEVisionManager.cpp-L0274: driver mode start!
+[2019-11-13 23:39:45:0709] | GigEVisionManager.cpp-L0311: Driver Mode [1]
+[2019-11-13 23:39:45:0710] | GigEVisionManager.cpp-L0916: connecting device ... hostIP[a9fe30fb], hostPort[54105], devIP[a9fe5055]
+[2019-11-13 23:39:46:0128] | GigEVisionManager.cpp-L3930: detect mtu [9014]!
+[2019-11-13 23:39:46:0133] | GigEVisionManager.cpp-L4006: UDP_ReadnTimeout  [8136]!
+[2019-11-13 23:39:46:0136] | GigEVisionManager.cpp-L4048: Optimal PacketSize  [8164]!
+[2019-11-13 23:39:46:0189] | GigEVisionManager.cpp-L2930: GigE SendRsdCmdThread Start, ThreadId[44692]
+[2019-11-13 23:39:46:0655] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:39:46:0711] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:39:46:0713] | GigEVisionManager.cpp-L4976: SetTransmissionType[0], nRet[0x0], GvspSendIp[a9fe30fb], GvspSendPort[54105], HostIp[a9fe30fb], HostPort[54105]
+[2019-11-13 23:39:46:0713] | GigEVisionManager.cpp-L0997: disconnect device ...
+[2019-11-13 23:39:46:0727] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:39:46:0727] | GigEVisionManager.cpp-L2976: SendRsdCmd thread stop
+[2019-11-13 23:39:49:0993] | GigEVisionManager.cpp-L0274: driver mode start!
+[2019-11-13 23:39:49:0993] | GigEVisionManager.cpp-L0311: Driver Mode [1]
+[2019-11-13 23:39:49:0994] | GigEVisionManager.cpp-L0916: connecting device ... hostIP[a9fe30fb], hostPort[54120], devIP[a9fe5055]
+[2019-11-13 23:39:50:0409] | GigEVisionManager.cpp-L3930: detect mtu [9014]!
+[2019-11-13 23:39:50:0414] | GigEVisionManager.cpp-L4006: UDP_ReadnTimeout  [8136]!
+[2019-11-13 23:39:50:0417] | GigEVisionManager.cpp-L4048: Optimal PacketSize  [8164]!
+[2019-11-13 23:39:50:0460] | GigEVisionManager.cpp-L2930: GigE SendRsdCmdThread Start, ThreadId[39664]
+[2019-11-13 23:39:50:0923] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:39:50:0981] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:39:50:0983] | GigEVisionManager.cpp-L4976: SetTransmissionType[0], nRet[0x0], GvspSendIp[a9fe30fb], GvspSendPort[54120], HostIp[a9fe30fb], HostPort[54120]
+[2019-11-13 23:39:50:0983] | GigEVisionManager.cpp-L0997: disconnect device ...
+[2019-11-13 23:39:50:0996] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:39:50:0996] | GigEVisionManager.cpp-L2976: SendRsdCmd thread stop
+[2019-11-13 23:39:51:0604] |   GigEVisionGVSP.cpp-L0423: [socket] NearBID[0], LastBID[0], output[0]
+[2019-11-13 23:39:53:0850] | GigEVisionManager.cpp-L0274: driver mode start!
+[2019-11-13 23:39:53:0850] | GigEVisionManager.cpp-L0311: Driver Mode [1]
+[2019-11-13 23:39:53:0851] | GigEVisionManager.cpp-L0916: connecting device ... hostIP[a9fe30fb], hostPort[54135], devIP[a9fe5055]
+[2019-11-13 23:39:54:0277] | GigEVisionManager.cpp-L3930: detect mtu [9014]!
+[2019-11-13 23:39:54:0282] | GigEVisionManager.cpp-L4006: UDP_ReadnTimeout  [8136]!
+[2019-11-13 23:39:54:0286] | GigEVisionManager.cpp-L4048: Optimal PacketSize  [8164]!
+[2019-11-13 23:39:54:0329] | GigEVisionManager.cpp-L2930: GigE SendRsdCmdThread Start, ThreadId[44200]
+[2019-11-13 23:39:54:0795] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:39:54:0850] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:39:54:0852] | GigEVisionManager.cpp-L4976: SetTransmissionType[0], nRet[0x0], GvspSendIp[a9fe30fb], GvspSendPort[54135], HostIp[a9fe30fb], HostPort[54135]
+[2019-11-13 23:39:54:0852] | GigEVisionManager.cpp-L0997: disconnect device ...
+[2019-11-13 23:39:54:0865] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:39:54:0865] | GigEVisionManager.cpp-L2976: SendRsdCmd thread stop
+[2019-11-13 23:39:55:0465] |   GigEVisionGVSP.cpp-L0423: [socket] NearBID[0], LastBID[0], output[0]
+[2019-11-13 23:39:58:0027] | GigEVisionManager.cpp-L0274: driver mode start!
+[2019-11-13 23:39:58:0027] | GigEVisionManager.cpp-L0311: Driver Mode [1]
+[2019-11-13 23:39:58:0027] | GigEVisionManager.cpp-L0916: connecting device ... hostIP[a9fe30fb], hostPort[54150], devIP[a9fe5055]
+[2019-11-13 23:39:58:0445] | GigEVisionManager.cpp-L3930: detect mtu [9014]!
+[2019-11-13 23:39:58:0450] | GigEVisionManager.cpp-L4006: UDP_ReadnTimeout  [8136]!
+[2019-11-13 23:39:58:0454] | GigEVisionManager.cpp-L4048: Optimal PacketSize  [8164]!
+[2019-11-13 23:39:58:0497] | GigEVisionManager.cpp-L2930: GigE SendRsdCmdThread Start, ThreadId[45504]
+[2019-11-13 23:39:58:0963] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:39:59:0018] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:39:59:0020] | GigEVisionManager.cpp-L4976: SetTransmissionType[0], nRet[0x0], GvspSendIp[a9fe30fb], GvspSendPort[54150], HostIp[a9fe30fb], HostPort[54150]
+[2019-11-13 23:39:59:0020] | GigEVisionManager.cpp-L0997: disconnect device ...
+[2019-11-13 23:39:59:0033] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:39:59:0033] | GigEVisionManager.cpp-L2976: SendRsdCmd thread stop
+[2019-11-13 23:39:59:0639] |   GigEVisionGVSP.cpp-L0423: [socket] NearBID[0], LastBID[0], output[0]
+[2019-11-13 23:40:21:0914] | GigEVisionManager.cpp-L0274: driver mode start!
+[2019-11-13 23:40:21:0914] | GigEVisionManager.cpp-L0311: Driver Mode [1]
+[2019-11-13 23:40:21:0914] | GigEVisionManager.cpp-L0916: connecting device ... hostIP[a9fe30fb], hostPort[54168], devIP[a9fe5055]
+[2019-11-13 23:40:22:0335] | GigEVisionManager.cpp-L3930: detect mtu [9014]!
+[2019-11-13 23:40:22:0340] | GigEVisionManager.cpp-L4006: UDP_ReadnTimeout  [8136]!
+[2019-11-13 23:40:22:0344] | GigEVisionManager.cpp-L4048: Optimal PacketSize  [8164]!
+[2019-11-13 23:40:22:0388] | GigEVisionManager.cpp-L2930: GigE SendRsdCmdThread Start, ThreadId[43856]
+[2019-11-13 23:40:22:0855] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:40:22:0910] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:40:22:0912] | GigEVisionManager.cpp-L4976: SetTransmissionType[0], nRet[0x0], GvspSendIp[a9fe30fb], GvspSendPort[54168], HostIp[a9fe30fb], HostPort[54168]
+[2019-11-13 23:40:22:0912] | GigEVisionManager.cpp-L0997: disconnect device ...
+[2019-11-13 23:40:22:0925] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:40:22:0925] | GigEVisionManager.cpp-L2976: SendRsdCmd thread stop
+[2019-11-13 23:40:29:0054] | GigEVisionManager.cpp-L0274: driver mode start!
+[2019-11-13 23:40:29:0054] | GigEVisionManager.cpp-L0311: Driver Mode [1]
+[2019-11-13 23:40:29:0055] | GigEVisionManager.cpp-L0916: connecting device ... hostIP[a9fe30fb], hostPort[54183], devIP[a9fe5055]
+[2019-11-13 23:40:29:0475] | GigEVisionManager.cpp-L3930: detect mtu [9014]!
+[2019-11-13 23:40:29:0480] | GigEVisionManager.cpp-L4006: UDP_ReadnTimeout  [8136]!
+[2019-11-13 23:40:29:0484] | GigEVisionManager.cpp-L4048: Optimal PacketSize  [8164]!
+[2019-11-13 23:40:29:0527] | GigEVisionManager.cpp-L2930: GigE SendRsdCmdThread Start, ThreadId[46136]
+[2019-11-13 23:40:29:0994] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:40:30:0049] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:40:30:0051] | GigEVisionManager.cpp-L4976: SetTransmissionType[0], nRet[0x0], GvspSendIp[a9fe30fb], GvspSendPort[54183], HostIp[a9fe30fb], HostPort[54183]
+[2019-11-13 23:40:30:0051] | GigEVisionManager.cpp-L0997: disconnect device ...
+[2019-11-13 23:40:30:0065] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:40:30:0065] | GigEVisionManager.cpp-L2976: SendRsdCmd thread stop
+[2019-11-13 23:40:30:0666] |   GigEVisionGVSP.cpp-L0423: [socket] NearBID[0], LastBID[0], output[0]
+[2019-11-13 23:40:33:0649] | GigEVisionManager.cpp-L0274: driver mode start!
+[2019-11-13 23:40:33:0649] | GigEVisionManager.cpp-L0311: Driver Mode [1]
+[2019-11-13 23:40:33:0650] | GigEVisionManager.cpp-L0916: connecting device ... hostIP[a9fe30fb], hostPort[54198], devIP[a9fe5055]
+[2019-11-13 23:40:34:0061] | GigEVisionManager.cpp-L3930: detect mtu [9014]!
+[2019-11-13 23:40:34:0067] | GigEVisionManager.cpp-L4006: UDP_ReadnTimeout  [8136]!
+[2019-11-13 23:40:34:0071] | GigEVisionManager.cpp-L4048: Optimal PacketSize  [8164]!
+[2019-11-13 23:40:34:0125] | GigEVisionManager.cpp-L2930: GigE SendRsdCmdThread Start, ThreadId[44204]
+[2019-11-13 23:40:34:0590] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:40:34:0647] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:40:34:0649] | GigEVisionManager.cpp-L4976: SetTransmissionType[0], nRet[0x0], GvspSendIp[a9fe30fb], GvspSendPort[54198], HostIp[a9fe30fb], HostPort[54198]
+[2019-11-13 23:40:34:0649] | GigEVisionManager.cpp-L0997: disconnect device ...
+[2019-11-13 23:40:34:0663] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:40:34:0663] | GigEVisionManager.cpp-L2976: SendRsdCmd thread stop
+[2019-11-13 23:40:35:0255] |   GigEVisionGVSP.cpp-L0423: [socket] NearBID[0], LastBID[0], output[0]
+[2019-11-13 23:41:10:0578] | GigEVisionManager.cpp-L0274: driver mode start!
+[2019-11-13 23:41:10:0578] | GigEVisionManager.cpp-L0311: Driver Mode [1]
+[2019-11-13 23:41:10:0578] | GigEVisionManager.cpp-L0916: connecting device ... hostIP[a9fe30fb], hostPort[54217], devIP[a9fe5055]
+[2019-11-13 23:41:10:0997] | GigEVisionManager.cpp-L3930: detect mtu [9014]!
+[2019-11-13 23:41:11:0003] | GigEVisionManager.cpp-L4006: UDP_ReadnTimeout  [8136]!
+[2019-11-13 23:41:11:0006] | GigEVisionManager.cpp-L4048: Optimal PacketSize  [8164]!
+[2019-11-13 23:41:11:0051] | GigEVisionManager.cpp-L2930: GigE SendRsdCmdThread Start, ThreadId[47456]
+[2019-11-13 23:41:11:0516] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:41:11:0573] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:41:11:0575] | GigEVisionManager.cpp-L4976: SetTransmissionType[0], nRet[0x0], GvspSendIp[a9fe30fb], GvspSendPort[54217], HostIp[a9fe30fb], HostPort[54217]
+[2019-11-13 23:41:11:0575] | GigEVisionManager.cpp-L0997: disconnect device ...
+[2019-11-13 23:41:11:0589] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:41:11:0589] | GigEVisionManager.cpp-L2976: SendRsdCmd thread stop
+[2019-11-13 23:41:15:0301] | GigEVisionManager.cpp-L0274: driver mode start!
+[2019-11-13 23:41:15:0301] | GigEVisionManager.cpp-L0311: Driver Mode [1]
+[2019-11-13 23:41:15:0302] | GigEVisionManager.cpp-L0916: connecting device ... hostIP[a9fe30fb], hostPort[54232], devIP[a9fe5055]
+[2019-11-13 23:41:15:0718] | GigEVisionManager.cpp-L3930: detect mtu [9014]!
+[2019-11-13 23:41:15:0723] | GigEVisionManager.cpp-L4006: UDP_ReadnTimeout  [8136]!
+[2019-11-13 23:41:15:0727] | GigEVisionManager.cpp-L4048: Optimal PacketSize  [8164]!
+[2019-11-13 23:41:15:0771] | GigEVisionManager.cpp-L2930: GigE SendRsdCmdThread Start, ThreadId[10652]
+[2019-11-13 23:41:16:0235] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:41:16:0291] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:41:16:0293] | GigEVisionManager.cpp-L4976: SetTransmissionType[0], nRet[0x0], GvspSendIp[a9fe30fb], GvspSendPort[54232], HostIp[a9fe30fb], HostPort[54232]
+[2019-11-13 23:41:16:0293] | GigEVisionManager.cpp-L0997: disconnect device ...
+[2019-11-13 23:41:16:0307] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:41:16:0307] | GigEVisionManager.cpp-L2976: SendRsdCmd thread stop
+[2019-11-13 23:41:16:0913] |   GigEVisionGVSP.cpp-L0423: [socket] NearBID[0], LastBID[0], output[0]
+[2019-11-13 23:41:39:0102] | GigEVisionManager.cpp-L0274: driver mode start!
+[2019-11-13 23:41:39:0102] | GigEVisionManager.cpp-L0311: Driver Mode [1]
+[2019-11-13 23:41:39:0103] | GigEVisionManager.cpp-L0916: connecting device ... hostIP[a9fe30fb], hostPort[54247], devIP[a9fe5055]
+[2019-11-13 23:41:39:0521] | GigEVisionManager.cpp-L3930: detect mtu [9014]!
+[2019-11-13 23:41:39:0527] | GigEVisionManager.cpp-L4006: UDP_ReadnTimeout  [8136]!
+[2019-11-13 23:41:39:0530] | GigEVisionManager.cpp-L4048: Optimal PacketSize  [8164]!
+[2019-11-13 23:41:39:0575] | GigEVisionManager.cpp-L2930: GigE SendRsdCmdThread Start, ThreadId[36180]
+[2019-11-13 23:41:40:0042] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:41:40:0097] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:41:40:0099] | GigEVisionManager.cpp-L4976: SetTransmissionType[0], nRet[0x0], GvspSendIp[a9fe30fb], GvspSendPort[54247], HostIp[a9fe30fb], HostPort[54247]
+[2019-11-13 23:41:40:0099] | GigEVisionManager.cpp-L0997: disconnect device ...
+[2019-11-13 23:41:40:0113] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:41:40:0113] | GigEVisionManager.cpp-L2976: SendRsdCmd thread stop
+[2019-11-13 23:41:40:0713] |   GigEVisionGVSP.cpp-L0423: [socket] NearBID[0], LastBID[0], output[0]
+[2019-11-13 23:41:50:0395] | GigEVisionManager.cpp-L0274: driver mode start!
+[2019-11-13 23:41:50:0395] | GigEVisionManager.cpp-L0311: Driver Mode [1]
+[2019-11-13 23:41:50:0396] | GigEVisionManager.cpp-L0916: connecting device ... hostIP[a9fe30fb], hostPort[54262], devIP[a9fe5055]
+[2019-11-13 23:41:50:0812] | GigEVisionManager.cpp-L3930: detect mtu [9014]!
+[2019-11-13 23:41:50:0818] | GigEVisionManager.cpp-L4006: UDP_ReadnTimeout  [8136]!
+[2019-11-13 23:41:50:0822] | GigEVisionManager.cpp-L4048: Optimal PacketSize  [8164]!
+[2019-11-13 23:41:50:0871] | GigEVisionManager.cpp-L2930: GigE SendRsdCmdThread Start, ThreadId[10652]
+[2019-11-13 23:41:51:0336] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:41:51:0393] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:41:51:0395] | GigEVisionManager.cpp-L4976: SetTransmissionType[0], nRet[0x0], GvspSendIp[a9fe30fb], GvspSendPort[54262], HostIp[a9fe30fb], HostPort[54262]
+[2019-11-13 23:41:51:0395] | GigEVisionManager.cpp-L0997: disconnect device ...
+[2019-11-13 23:41:51:0409] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:41:51:0409] | GigEVisionManager.cpp-L2976: SendRsdCmd thread stop
+[2019-11-13 23:41:52:0004] |   GigEVisionGVSP.cpp-L0423: [socket] NearBID[0], LastBID[0], output[0]
+[2019-11-13 23:42:22:0633] | GigEVisionManager.cpp-L0274: driver mode start!
+[2019-11-13 23:42:22:0633] | GigEVisionManager.cpp-L0311: Driver Mode [1]
+[2019-11-13 23:42:22:0634] | GigEVisionManager.cpp-L0916: connecting device ... hostIP[a9fe30fb], hostPort[54288], devIP[a9fe5055]
+[2019-11-13 23:42:23:0353] | GigEVisionManager.cpp-L3930: detect mtu [9014]!
+[2019-11-13 23:42:23:0360] | GigEVisionManager.cpp-L4006: UDP_ReadnTimeout  [8136]!
+[2019-11-13 23:42:23:0363] | GigEVisionManager.cpp-L4048: Optimal PacketSize  [8164]!
+[2019-11-13 23:42:23:0440] | GigEVisionManager.cpp-L2930: GigE SendRsdCmdThread Start, ThreadId[41944]
+[2019-11-13 23:42:23:0919] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:42:23:0963] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:42:23:0965] | GigEVisionManager.cpp-L4976: SetTransmissionType[0], nRet[0x0], GvspSendIp[a9fe30fb], GvspSendPort[54288], HostIp[a9fe30fb], HostPort[54288]
+[2019-11-13 23:42:23:0965] | GigEVisionManager.cpp-L0997: disconnect device ...
+[2019-11-13 23:42:23:0979] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:42:23:0979] | GigEVisionManager.cpp-L2976: SendRsdCmd thread stop
+[2019-11-13 23:42:24:0262] |   GigEVisionGVSP.cpp-L0423: [socket] NearBID[0], LastBID[0], output[0]
+[2019-11-13 23:42:28:0827] | GigEVisionManager.cpp-L0274: driver mode start!
+[2019-11-13 23:42:28:0827] | GigEVisionManager.cpp-L0311: Driver Mode [1]
+[2019-11-13 23:42:28:0827] | GigEVisionManager.cpp-L0916: connecting device ... hostIP[a9fe30fb], hostPort[54303], devIP[a9fe5055]
+[2019-11-13 23:42:29:0245] | GigEVisionManager.cpp-L3930: detect mtu [9014]!
+[2019-11-13 23:42:29:0251] | GigEVisionManager.cpp-L4006: UDP_ReadnTimeout  [8136]!
+[2019-11-13 23:42:29:0254] | GigEVisionManager.cpp-L4048: Optimal PacketSize  [8164]!
+[2019-11-13 23:42:29:0297] | GigEVisionManager.cpp-L2930: GigE SendRsdCmdThread Start, ThreadId[47240]
+[2019-11-13 23:42:29:0760] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:42:29:0819] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:42:29:0821] | GigEVisionManager.cpp-L4976: SetTransmissionType[0], nRet[0x0], GvspSendIp[a9fe30fb], GvspSendPort[54303], HostIp[a9fe30fb], HostPort[54303]
+[2019-11-13 23:42:29:0821] | GigEVisionManager.cpp-L0997: disconnect device ...
+[2019-11-13 23:42:29:0835] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:42:29:0835] | GigEVisionManager.cpp-L2976: SendRsdCmd thread stop
+[2019-11-13 23:42:30:0441] |   GigEVisionGVSP.cpp-L0423: [socket] NearBID[0], LastBID[0], output[0]
+[2019-11-13 23:42:39:0732] | GigEVisionManager.cpp-L0274: driver mode start!
+[2019-11-13 23:42:39:0732] | GigEVisionManager.cpp-L0311: Driver Mode [1]
+[2019-11-13 23:42:39:0732] | GigEVisionManager.cpp-L0916: connecting device ... hostIP[a9fe30fb], hostPort[54318], devIP[a9fe5055]
+[2019-11-13 23:42:40:0148] | GigEVisionManager.cpp-L3930: detect mtu [9014]!
+[2019-11-13 23:42:40:0154] | GigEVisionManager.cpp-L4006: UDP_ReadnTimeout  [8136]!
+[2019-11-13 23:42:40:0157] | GigEVisionManager.cpp-L4048: Optimal PacketSize  [8164]!
+[2019-11-13 23:42:40:0199] | GigEVisionManager.cpp-L2930: GigE SendRsdCmdThread Start, ThreadId[41944]
+[2019-11-13 23:42:40:0664] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:42:40:0720] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:42:40:0722] | GigEVisionManager.cpp-L4976: SetTransmissionType[0], nRet[0x0], GvspSendIp[a9fe30fb], GvspSendPort[54318], HostIp[a9fe30fb], HostPort[54318]
+[2019-11-13 23:42:40:0722] | GigEVisionManager.cpp-L0997: disconnect device ...
+[2019-11-13 23:42:40:0736] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:42:40:0736] | GigEVisionManager.cpp-L2976: SendRsdCmd thread stop
+[2019-11-13 23:42:41:0343] |   GigEVisionGVSP.cpp-L0423: [socket] NearBID[0], LastBID[0], output[0]
+[2019-11-13 23:42:46:0729] | GigEVisionManager.cpp-L0274: driver mode start!
+[2019-11-13 23:42:46:0729] | GigEVisionManager.cpp-L0311: Driver Mode [1]
+[2019-11-13 23:42:46:0729] | GigEVisionManager.cpp-L0916: connecting device ... hostIP[a9fe30fb], hostPort[54333], devIP[a9fe5055]
+[2019-11-13 23:42:47:0151] | GigEVisionManager.cpp-L3930: detect mtu [9014]!
+[2019-11-13 23:42:47:0157] | GigEVisionManager.cpp-L4006: UDP_ReadnTimeout  [8136]!
+[2019-11-13 23:42:47:0160] | GigEVisionManager.cpp-L4048: Optimal PacketSize  [8164]!
+[2019-11-13 23:42:47:0202] | GigEVisionManager.cpp-L2930: GigE SendRsdCmdThread Start, ThreadId[33796]
+[2019-11-13 23:42:47:0665] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:42:47:0723] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:42:47:0725] | GigEVisionManager.cpp-L4976: SetTransmissionType[0], nRet[0x0], GvspSendIp[a9fe30fb], GvspSendPort[54333], HostIp[a9fe30fb], HostPort[54333]
+[2019-11-13 23:42:47:0725] | GigEVisionManager.cpp-L0997: disconnect device ...
+[2019-11-13 23:42:47:0738] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:42:47:0738] | GigEVisionManager.cpp-L2976: SendRsdCmd thread stop
+[2019-11-13 23:42:57:0129] | GigEVisionManager.cpp-L0274: driver mode start!
+[2019-11-13 23:42:57:0129] | GigEVisionManager.cpp-L0311: Driver Mode [1]
+[2019-11-13 23:42:57:0129] | GigEVisionManager.cpp-L0916: connecting device ... hostIP[a9fe30fb], hostPort[54348], devIP[a9fe5055]
+[2019-11-13 23:42:57:0579] | GigEVisionManager.cpp-L3930: detect mtu [9014]!
+[2019-11-13 23:42:57:0584] | GigEVisionManager.cpp-L4006: UDP_ReadnTimeout  [8136]!
+[2019-11-13 23:42:57:0588] | GigEVisionManager.cpp-L4048: Optimal PacketSize  [8164]!
+[2019-11-13 23:42:57:0630] | GigEVisionManager.cpp-L2930: GigE SendRsdCmdThread Start, ThreadId[47376]
+[2019-11-13 23:42:58:0097] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:42:58:0152] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:42:58:0154] | GigEVisionManager.cpp-L4976: SetTransmissionType[0], nRet[0x0], GvspSendIp[a9fe30fb], GvspSendPort[54348], HostIp[a9fe30fb], HostPort[54348]
+[2019-11-13 23:42:58:0154] | GigEVisionManager.cpp-L0997: disconnect device ...
+[2019-11-13 23:42:58:0167] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:42:58:0167] | GigEVisionManager.cpp-L2976: SendRsdCmd thread stop
+[2019-11-13 23:42:58:0744] |   GigEVisionGVSP.cpp-L0423: [socket] NearBID[0], LastBID[0], output[0]
+[2019-11-13 23:43:00:0031] | GigEVisionManager.cpp-L0274: driver mode start!
+[2019-11-13 23:43:00:0031] | GigEVisionManager.cpp-L0311: Driver Mode [1]
+[2019-11-13 23:43:00:0031] | GigEVisionManager.cpp-L0916: connecting device ... hostIP[a9fe30fb], hostPort[54363], devIP[a9fe5055]
+[2019-11-13 23:43:00:0456] | GigEVisionManager.cpp-L3930: detect mtu [9014]!
+[2019-11-13 23:43:00:0462] | GigEVisionManager.cpp-L4006: UDP_ReadnTimeout  [8136]!
+[2019-11-13 23:43:00:0466] | GigEVisionManager.cpp-L4048: Optimal PacketSize  [8164]!
+[2019-11-13 23:43:00:0507] | GigEVisionManager.cpp-L2930: GigE SendRsdCmdThread Start, ThreadId[47260]
+[2019-11-13 23:43:00:0972] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:43:01:0028] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:43:01:0030] | GigEVisionManager.cpp-L4976: SetTransmissionType[0], nRet[0x0], GvspSendIp[a9fe30fb], GvspSendPort[54363], HostIp[a9fe30fb], HostPort[54363]
+[2019-11-13 23:43:01:0030] | GigEVisionManager.cpp-L0997: disconnect device ...
+[2019-11-13 23:43:01:0044] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:43:01:0044] | GigEVisionManager.cpp-L2976: SendRsdCmd thread stop
+[2019-11-13 23:43:01:0642] |   GigEVisionGVSP.cpp-L0423: [socket] NearBID[0], LastBID[0], output[0]
+[2019-11-13 23:43:02:0920] | GigEVisionManager.cpp-L0274: driver mode start!
+[2019-11-13 23:43:02:0920] | GigEVisionManager.cpp-L0311: Driver Mode [1]
+[2019-11-13 23:43:02:0921] | GigEVisionManager.cpp-L0916: connecting device ... hostIP[a9fe30fb], hostPort[54378], devIP[a9fe5055]
+[2019-11-13 23:43:03:0361] | GigEVisionManager.cpp-L3930: detect mtu [9014]!
+[2019-11-13 23:43:03:0366] | GigEVisionManager.cpp-L4006: UDP_ReadnTimeout  [8136]!
+[2019-11-13 23:43:03:0370] | GigEVisionManager.cpp-L4048: Optimal PacketSize  [8164]!
+[2019-11-13 23:43:03:0418] | GigEVisionManager.cpp-L2930: GigE SendRsdCmdThread Start, ThreadId[43032]
+[2019-11-13 23:43:03:0889] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:43:03:0940] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:43:03:0942] | GigEVisionManager.cpp-L4976: SetTransmissionType[0], nRet[0x0], GvspSendIp[a9fe30fb], GvspSendPort[54378], HostIp[a9fe30fb], HostPort[54378]
+[2019-11-13 23:43:03:0942] | GigEVisionManager.cpp-L0997: disconnect device ...
+[2019-11-13 23:43:03:0956] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:43:03:0956] | GigEVisionManager.cpp-L2976: SendRsdCmd thread stop
+[2019-11-13 23:43:04:0535] |   GigEVisionGVSP.cpp-L0423: [socket] NearBID[0], LastBID[0], output[0]
+[2019-11-13 23:43:34:0744] | GigEVisionManager.cpp-L0274: driver mode start!
+[2019-11-13 23:43:34:0744] | GigEVisionManager.cpp-L0311: Driver Mode [1]
+[2019-11-13 23:43:34:0745] | GigEVisionManager.cpp-L0916: connecting device ... hostIP[a9fe30fb], hostPort[54393], devIP[a9fe5055]
+[2019-11-13 23:43:35:0163] | GigEVisionManager.cpp-L3930: detect mtu [9014]!
+[2019-11-13 23:43:35:0168] | GigEVisionManager.cpp-L4006: UDP_ReadnTimeout  [8136]!
+[2019-11-13 23:43:35:0172] | GigEVisionManager.cpp-L4048: Optimal PacketSize  [8164]!
+[2019-11-13 23:43:35:0215] | GigEVisionManager.cpp-L2930: GigE SendRsdCmdThread Start, ThreadId[3532]
+[2019-11-13 23:43:35:0680] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:43:35:0737] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:43:35:0739] | GigEVisionManager.cpp-L4976: SetTransmissionType[0], nRet[0x0], GvspSendIp[a9fe30fb], GvspSendPort[54393], HostIp[a9fe30fb], HostPort[54393]
+[2019-11-13 23:43:35:0739] | GigEVisionManager.cpp-L0997: disconnect device ...
+[2019-11-13 23:43:35:0752] | GigEVisionManager.cpp-L2577: AppGetCount[1], AppGetCountSucceed[1], ExpectRecv[1], NetRecv[1], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-11-13 23:43:35:0752] | GigEVisionManager.cpp-L2976: SendRsdCmd thread stop

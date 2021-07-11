@@ -1,0 +1,9 @@
+# Byte-compiled / optimized / DLL files
+__pycache__
+.idea
+.egg-info
+.docx
+DockerFile
+model
+.pth
+.deb
