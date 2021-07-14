@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="detection">
+    <file>C:/Users/admin/Desktop/批注 2019-11-05 104545.jpg</file>
+    <file>200814.jpg</file>
+    <file>162247.jpg</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>C:/Users/admin/Desktop/批注 2019-11-05 104545.jpg</file>
+  </qresource>
+  <qresource prefix="find">
+    <file>200814.jpg</file>
+  </qresource>
+</RCC>
