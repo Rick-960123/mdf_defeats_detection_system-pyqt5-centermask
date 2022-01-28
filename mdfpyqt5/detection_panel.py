@@ -6,7 +6,7 @@ from mdfpyqt5.ui.detection import Ui_widget
 from pretreatment.pretreatment import pre_treatment
 import sys,cv2,numpy,time,json,os, traceback
 import serial,binascii,skimage.io
-from  mdfsql.mysql_connect import edit_db
+from  sqllite.mysql_connect import edit_db
 from PyQt5.QtCore import QThread
 from PyQt5.QtWidgets import QFileDialog
 

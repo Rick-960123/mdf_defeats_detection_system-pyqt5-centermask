@@ -1,23 +1,27 @@
 from peewee import *
-database = MYSQLDatabase('mdf',user="root",host="127.0.0.1",port="3306")
-class MDF(Model):
+connect = SqliteDatabase('sqllite/mdf.db')
+
+class Mdf(Model):
         st_date=DateField()
         end_date=DateField(),
-        image_name=charField(),
+        image_name=CharField(),
         date=DateField(),
-        defects_number=charField(),
-        defects_kind=charField()
-        defects_location=charField(),
-        confidence=charField(),
-        model_path=charField(),
-        image_size=charField(),
-        image_path=charField(),
-        working_model=charField(),
-        line_frequency=charField(),
-        exposure_time=charField(),
-        defects_area=charField(),
+        defects_number=CharField(),
+        defects_kind=CharField()
+        defects_location=CharField(),
+        confidence=CharField(),
+        model_path=CharField(),
+        image_size=CharField(),
+        image_path=CharField(),
+        working_model=CharField(),
+        line_frequency=CharField(),
+        exposure_time=CharField(),
+        defects_area=CharField(),
         class Meta:
-                database=database
-MDF.create_table()
-data = MDF(image_name="abc")
-data.save()
+                database=connect
+if __name__=="__main__":
+        db = Mdf()
+        db.image_name="abc.png"
+        db.save()
+        for data in Mdf.select():
+                print(data)
