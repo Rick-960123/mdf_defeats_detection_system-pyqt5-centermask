@@ -2,7 +2,7 @@
 import sys,os
 if hasattr(sys, 'frozen'):
     os.environ['PATH'] = sys._MEIPASS + ";" + os.environ['PATH']
-from  PyQt5.Qt import *
+from PyQt5.Qt import *
 from mdfpyqt5.camera_panel import Camera
 from mdfpyqt5.detection_panel import Detection
 
