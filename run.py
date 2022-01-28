@@ -26,6 +26,7 @@ def exit_camera_panel_Fc():
     animation.setEasingCurve(QEasingCurve.OutBounce)
     animation.start(QAbstractAnimation.DeleteWhenStopped)
 
+
 if __name__=='__main__':
     app = QApplication(sys.argv)
     detection_panel = Detection()
